@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-projectmaple-dev-163804-authRole",
+            "UnauthRoleArn": "arn:aws:iam::063456663555:role/amplify-projectmaple-dev-163804-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::063456663555:role/amplify-projectmaple-dev-163804-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-projectmaple-dev-163804-deployment",
+            "UnauthRoleName": "amplify-projectmaple-dev-163804-unauthRole",
+            "StackName": "amplify-projectmaple-dev-163804",
+            "StackId": "arn:aws:cloudformation:us-west-2:063456663555:stack/amplify-projectmaple-dev-163804/49835a70-9c85-11ea-86c3-029d56ff9702",
+            "AmplifyAppId": "d16x9172nimq4h"
+        }
+    }
+}

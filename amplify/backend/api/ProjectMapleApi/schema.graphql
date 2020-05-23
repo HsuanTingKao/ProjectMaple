@@ -1,0 +1,13 @@
+type Todo @model {
+  id: ID!
+  code: String!
+  name: String
+  model: String
+  spec: String
+  description : String
+  url: String
+  msrp: Int
+  price: Int
+  createdAt: String
+  updatedAt: String
+}
